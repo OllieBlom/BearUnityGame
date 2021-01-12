@@ -1,0 +1,117 @@
+{
+    "name": "MyControl",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "1f92d1b5-e1cf-4f8d-a5af-e1f50d69acea",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "49ffdd69-5cbd-42a7-ac80-31fd29763586",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "712b9bb7-dd9a-43c8-86b1-0e265f9f0c36",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9280eaa7-0735-4e99-8e61-013d54acc3c3",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f61a3e53-85fe-4c24-ae8d-7cb581c761a4",
+                    "path": "<HID::Google LLC Stadia Controller rev. A>/stick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "59f7843c-aa62-4be2-9e6e-0bc2602c5a07",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Camera",
+            "id": "0ce5ba06-5486-432c-883b-3933a6acabe8",
+            "actions": [
+                {
+                    "name": "Rotate",
+                    "type": "Value",
+                    "id": "4a19ed69-8d34-4040-b0dc-eea724de2fb6",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1acdb0b2-54a1-445a-bf0d-c13f6d3695c7",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "GUI In game",
+            "id": "2adc7330-e79b-4ffa-a89f-cb5fb1af6a98",
+            "actions": [
+                {
+                    "name": "ActivateGUI",
+                    "type": "Button",
+                    "id": "e2d51288-9a44-40cc-beb2-e270105bf2db",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ea88f4b4-0c7a-4f0c-ad9f-e6501336dc87",
+                    "path": "<Gamepad>/leftShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActivateGUI",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
