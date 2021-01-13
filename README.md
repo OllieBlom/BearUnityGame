@@ -14,5 +14,3 @@ s- move backwards
 d - move right
 
 When you touch a fish it will be collected. 
-
-test
