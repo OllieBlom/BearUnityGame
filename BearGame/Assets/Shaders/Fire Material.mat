@@ -50,8 +50,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - DistortionStrength: 1
-    - Vector1_663E2548: 1.2
-    - Vector1_9CC9721C: 1
+    - Vector1_663E2548: 1.77
+    - Vector1_9CC9721C: 1.04
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
