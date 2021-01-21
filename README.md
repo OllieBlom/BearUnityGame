@@ -14,28 +14,29 @@ s- move backwards
 d - move right
 
 When you touch a fish it will be collected.
- \
- \
+\
+\
 Jobs:
 \
 Ollie:
 * Character design and movement
 * Shaders
-
+\
 Jamie:
 * Shop design
 * UI design
-
+\
 Zak:
 * Enemy AI
 * Sound effects
-
+\
 Miles:
 * Map design
- 
- 
+\
+\ 
 User Stories:
- 
+\
+\
 As a player:
  
 - Must
