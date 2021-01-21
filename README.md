@@ -31,3 +31,30 @@ Zak:
 
 Miles:
 * Map design
+
+
+User Stories:
+
+As a player:
+
+- Must
+  - Enjoyable
+  - Challenging
+  - Varied
+- Could
+  - Change skins
+- Should Not
+  - Walk through object
+  - Walk on water
+  
+  
+As an enemy:
+
+- Must
+  - Follow the player
+  - Attack the player
+  - Be identifiable
+- Could
+  - Vary their attacks
+- Should Not
+  - Be too difficult
