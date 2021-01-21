@@ -28,7 +28,6 @@ Jamie:
 Zak:
 * Enemy AI
 * Sound effects
-* The Readme
 
 Miles:
 * Map design
