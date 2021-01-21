@@ -14,7 +14,8 @@ s- move backwards
 d - move right
 
 When you touch a fish it will be collected.
-
+ 
+ 
 Jobs:
 
 Ollie:
@@ -31,12 +32,12 @@ Zak:
 
 Miles:
 * Map design
-
-
+ 
+ 
 User Stories:
-
+ 
 As a player:
-
+ 
 - Must
   - Enjoyable
   - Challenging
@@ -46,7 +47,6 @@ As a player:
 - Should Not
   - Walk through object
   - Walk on water
-  
   
 As an enemy:
 
