@@ -8,7 +8,8 @@ As a player:
 - Could
   - Change skins
 - Should Not
-  - Expolit the game   
+  - Walk through object
+  - Walk on water
   
   
 As an enemy:
@@ -16,6 +17,7 @@ As an enemy:
 - Must
   - Follow the player
   - Attack the player
+  - Be identifiable
 - Could
   - Vary their attacks
 - Should Not
