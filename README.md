@@ -14,10 +14,10 @@ s- move backwards
 d - move right
 
 When you touch a fish it will be collected.
- 
- 
+ \
+ \
 Jobs:
-
+\
 Ollie:
 * Character design and movement
 * Shaders
