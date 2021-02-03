@@ -21,6 +21,7 @@ Jobs:
 Ollie:
 * Character design and movement
 * Shaders
+* Combat Mechanics
 
 Jamie:
 * Shop design
