@@ -40,12 +40,12 @@ Zak:
 * Sound effects
 
 Miles:
-* Map design
-
- 
+* Map design  
+  
 User Stories:
 
-
+  
+  
 As a player:
  
 - Must
@@ -57,7 +57,8 @@ As a player:
 - Should Not
   - Walk through object
   - Walk on water
-  
+    
+    
 As an enemy:
 
 - Must
