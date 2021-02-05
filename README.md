@@ -19,10 +19,12 @@ space - jump
 left click - shoot
 
 
-When you touch a fish it will be collected.
+When you touch a fish it will be collected.  
 
 
-Jobs:
+
+Jobs:  
+
 
 Ollie:
 * Character design and movement
