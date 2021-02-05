@@ -13,6 +13,11 @@ s- move backwards
 
 d - move right
 
+space - jump
+
+left click - shoot
+
+
 When you touch a fish it will be collected.
 
 
