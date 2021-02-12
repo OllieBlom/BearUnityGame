@@ -7,7 +7,7 @@ public class ThirdPersonController : MonoBehaviour
 {
 
     public CharacterController controller;
-    public Transform camera;
+    public new Transform camera;
 
     public float speed = 10;
 
